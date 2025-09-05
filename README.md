@@ -1,6 +1,6 @@
 # Caixa Eletrônico - Desafio Backend C# (Curso Estartando Devs)
 
-Este projeto é um **desafio proposto pelo curso Estartando Devs**, cujo objetivo era criar um sistema de caixa eletrônico em C# utilizando **SQLite** como banco de dados local.  
+Este projeto é um **desafio proposto pelo curso Estartando Devs**, cujo objetivo era criar um projeto console de caixa eletrônico em C# utilizando **SQLite** como banco de dados local.  
 
 ---
 
